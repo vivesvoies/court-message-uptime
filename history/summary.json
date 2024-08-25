@@ -4,19 +4,19 @@
     "url": "https://court-message.fr",
     "icon": "https://icons.duckduckgo.com/ip3/court-message.fr.ico",
     "slug": "court-message-production",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 836,
-    "timeDay": 648,
-    "timeWeek": 775,
-    "timeMonth": 792,
-    "timeYear": 836,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 835,
+    "timeDay": 707,
+    "timeWeek": 774,
+    "timeMonth": 791,
+    "timeYear": 835,
     "dailyMinutesDown": {
-      "2024-08-25": 1
+      "2024-08-25": 9
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://alpha.court-message.fr",
     "icon": "https://icons.duckduckgo.com/ip3/alpha.court-message.fr.ico",
     "slug": "court-message-staging",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 996,
-    "timeDay": 855,
-    "timeWeek": 857,
-    "timeMonth": 933,
-    "timeYear": 996,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 994,
+    "timeDay": 850,
+    "timeWeek": 855,
+    "timeMonth": 930,
+    "timeYear": 994,
     "dailyMinutesDown": {
-      "2024-08-25": 0
+      "2024-08-25": 8
     }
   }
 ]
