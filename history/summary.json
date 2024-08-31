@@ -4,18 +4,20 @@
     "url": "https://court-message.fr",
     "icon": "https://icons.duckduckgo.com/ip3/court-message.fr.ico",
     "slug": "court-message-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 829,
-    "timeDay": 760,
-    "timeWeek": 739,
+    "time": 828,
+    "timeDay": 766,
+    "timeWeek": 743,
     "timeMonth": 783,
-    "timeYear": 829,
-    "dailyMinutesDown": {}
+    "timeYear": 828,
+    "dailyMinutesDown": {
+      "2024-08-31": 0
+    }
   },
   {
     "name": "Court-message (staging)",
