@@ -6,15 +6,15 @@
     "slug": "court-message-production",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.82%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 826,
-    "timeDay": 735,
-    "timeWeek": 747,
-    "timeMonth": 772,
-    "timeYear": 826,
+    "time": 829,
+    "timeDay": 1120,
+    "timeWeek": 795,
+    "timeMonth": 786,
+    "timeYear": 829,
     "dailyMinutesDown": {
       "2024-08-31": 17
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 991,
-    "timeDay": 997,
-    "timeWeek": 944,
-    "timeMonth": 916,
-    "timeYear": 991,
+    "time": 989,
+    "timeDay": 821,
+    "timeWeek": 952,
+    "timeMonth": 922,
+    "timeYear": 989,
     "dailyMinutesDown": {}
   }
 ]
