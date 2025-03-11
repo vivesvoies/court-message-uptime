@@ -4,10 +4,10 @@
     "url": "https://court-message.fr",
     "icon": "https://icons.duckduckgo.com/ip3/court-message.fr.ico",
     "slug": "court-message-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 827,
@@ -16,6 +16,7 @@
     "timeMonth": 803,
     "timeYear": 827,
     "dailyMinutesDown": {
+      "2025-03-11": 1,
       "2024-09-05": 78,
       "2024-08-31": 17
     }
@@ -25,9 +26,9 @@
     "url": "https://alpha.court-message.fr",
     "icon": "https://icons.duckduckgo.com/ip3/alpha.court-message.fr.ico",
     "slug": "court-message-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -37,6 +38,7 @@
     "timeMonth": 1006,
     "timeYear": 999,
     "dailyMinutesDown": {
+      "2025-03-11": 0,
       "2024-09-05": 78
     }
   }
