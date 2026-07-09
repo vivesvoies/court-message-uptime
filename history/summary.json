@@ -4,19 +4,20 @@
     "url": "https://court-message.fr",
     "icon": "https://icons.duckduckgo.com/ip3/court-message.fr.ico",
     "slug": "court-message-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1062,
-    "timeDay": 1389,
-    "timeWeek": 1524,
-    "timeMonth": 1737,
-    "timeYear": 1054,
+    "time": 1061,
+    "timeDay": 907,
+    "timeWeek": 1386,
+    "timeMonth": 1695,
+    "timeYear": 1052,
     "dailyMinutesDown": {
-      "2025-08-02": 26
+      "2025-08-02": 26,
+      "2026-07-09": 0
     }
   },
   {
